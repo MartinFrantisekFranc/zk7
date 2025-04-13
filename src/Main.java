@@ -12,5 +12,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("ahojda, nazdar");
+        System.out.println("Dobry den");
     }
 }
